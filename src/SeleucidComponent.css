@@ -1,0 +1,11 @@
+
+.seleucid-component ol {
+  padding: 0;
+}
+
+.seleucid-component ol > li {
+  border: solid 1px #000;
+  margin: 10px;
+  list-style-type: none;
+  padding: 10px;
+}
